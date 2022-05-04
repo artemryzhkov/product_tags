@@ -1,7 +1,8 @@
 ## Description 
 
 ```text
-The service allows you to highlight tags among a variety of product names. This can be useful for selecting filters or for categorizing a list of products.
+The service allows you to highlight tags among a variety of product names. 
+This can be useful for selecting filters or for categorizing a list of products.
 ```
 
 ## Start:
